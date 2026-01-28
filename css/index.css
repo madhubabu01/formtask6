@@ -1,0 +1,96 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.display {
+    border: 1px solid black;
+    background-color: rgb(190, 225, 225);
+    width: 1000px;
+    height: 500px;
+
+}
+
+#header {
+    text-align: center;
+}
+
+.name {
+    display: flex;
+    justify-content:center;
+}
+#name{
+    width: 400px;
+
+}
+#email{
+    margin-left: 20px;
+     width: 450px;
+}
+
+
+
+.password {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+#password {
+    margin-left:53px;
+    width: 400px;
+}
+
+
+#compassword {
+ padding-right: 50px;
+     width:450px; 
+    
+}
+/*
+#passpara{
+
+margin: 1px ;
+padding-left: 35px;
+}
+
+.mobile{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border: 1px solid black;
+    
+}
+#mobiles{
+    margin-left: 10px;
+
+}
+#mobile{
+    a
+    width: 450px;
+}
+
+#dobs{
+    width: 450px;
+}
+
+.country{
+    display: flex; justify-content: center;
+}
+
+.city{
+  display: flex; justify-content: center;
+}
+
+.skill{
+    display: flex;justify-content: center;
+}
+.button{
+display: flex; justify-content: center;
+} */
+#button
+{
+     background-color: blue;
+    width: 100px;
+}
